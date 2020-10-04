@@ -1,4 +1,4 @@
-# GuruKul App
+# GuruKul Application
 
 A Peer to peer educational website.
 The objective of this website/project is to provide a social platform to students and teachers from any university to Join As a Student or Teacher where they can teach or learn from one of the Teacher. 
